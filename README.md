@@ -1,5 +1,7 @@
 # vue-tutorial
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/l19861225q/vue-tutorial.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
